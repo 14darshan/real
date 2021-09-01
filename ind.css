@@ -1,0 +1,265 @@
+body {
+  
+  background-color: #000100;}
+
+.uik{color: white;
+text-align:center;
+font-family: 'Bebas Neue', cursive;
+
+}
+
+.topnav {
+    background-color:#000100;
+
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Bebas Neue', cursive;
+
+  }
+  
+
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color:#000100;
+    color: white;
+  }
+
+
+  .abtus{
+    text-align: center;
+    white-space: nowrap;
+    transform: rotate(-90deg);
+        color: white;
+      font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+  }
+
+
+
+    .abtusp{ 
+      text-align: left;
+        color: white;
+          font-size: 10px;
+        font-family: 'Bebas Neue', cursive;}
+
+   .prts{text-align: center;
+    white-space: nowrap;
+        color: white;
+      font-size: 30px;
+    font-family: 'Bebas Neue', cursive;}
+    
+    .primage{max-width:320px;
+      height: 420px;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* cards css */
+.cards{
+    font-family: 'Bebas Neue', cursive;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    padding: 20px;
+    grid-gap: 40px;
+
+}
+.card{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0 0 30px #000100;
+}
+.container{
+    position: relative;
+    clip-path: polygon(0 0,100% 0, 100% 85%, 0 100%);
+}
+.opp{
+    width: 100%;
+    display: block;
+    border-radius: 20px 20px 0 0;
+}
+.container:after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px 20px 0 0;
+    opacity: 0.7;
+}
+/*  */
+   
+.details{
+    padding: 20px 10px;
+}
+.details>h3{
+    color: #000100;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 10px 0 15px 0;
+}
+.details>p{
+    color: #000100;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+
+.tngs{
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.tngsp{color: white;
+  font-family: 'Bebas Neue', cursive;}
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.maps{width: 100%;}
+
+
+
+
+
+
+
+.contact-me 
+
+{ text-align: center;
+   font-size: 20px;
+  color:white ;
+  font-family: 'Bebas Neue', cursive;}
+
+.btn{color:white ;
+  font-family: 'Bebas Neue', cursive;}
+
+  .bottom-container{
+    font-size: 20px;
+
+    color:white ;
+  font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    padding: 50px 0 20px;
+    background-color: #000100;}
+
+
+    .footer-link{
+      align-content: center;
+      color:white ;
+      font-family: 'Bebas Neue', cursive;}
+
+
+
+
+      .side-line{    width:100%;
+  
+        height: 5px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
